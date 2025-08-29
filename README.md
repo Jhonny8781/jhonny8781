@@ -1,6 +1,6 @@
-# 👋 Juan Pérez – Full Stack Developer
+# 👋 Hola – Full Stack Developer
 
-![Foto de Juan](https://via.placeholder.com/150) <!-- reemplaza con tu foto real -->
+![Foto de ](###) <!-- reemplaza con tu foto real -->
 
 ---
 
@@ -29,7 +29,7 @@ Me apasiona crear aplicaciones eficientes, escalables y visualmente atractivas. 
 
 | Proyecto | Stack | Demo | Repositorio |
 |----------|-------|------|------------|
-| **Manage Book** | Angular, Spring, Node.js, PostgreSQL, Tailwind, AWS | [Demo](https://tu-demo-url.com) | [Repo](https://github.com/tu-usuario/manage-book) |
+| **Manage Book** | Angular, Spring, Node.js, PostgreSQL, Tailwind, AWS | [Demo](#) | [Repo](#) |
 | Proyecto 2 | React, Node.js, PostgreSQL | [Demo](#) | [Repo](#) |
 | Proyecto 3 | Angular, Spring | [Demo](#) | [Repo](#) |
 | Proyecto 4 | Node.js, MongoDB | [Demo](#) | [Repo](#) |
